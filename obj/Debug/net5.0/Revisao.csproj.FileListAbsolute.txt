@@ -1,0 +1,16 @@
+C:\Users\TSS\Desktop\workspace\Dotnet\Revisao\obj\Debug\net5.0\Revisao.csprojAssemblyReference.cache
+C:\Users\TSS\Desktop\workspace\Dotnet\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TSS\Desktop\workspace\Dotnet\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\TSS\Desktop\workspace\Dotnet\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Users\TSS\Desktop\workspace\Dotnet\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\TSS\Desktop\workspace\Dotnet\Revisao\bin\Debug\net5.0\Revisao.exe
+C:\Users\TSS\Desktop\workspace\Dotnet\Revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\Users\TSS\Desktop\workspace\Dotnet\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Users\TSS\Desktop\workspace\Dotnet\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Users\TSS\Desktop\workspace\Dotnet\Revisao\bin\Debug\net5.0\Revisao.dll
+C:\Users\TSS\Desktop\workspace\Dotnet\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\Users\TSS\Desktop\workspace\Dotnet\Revisao\bin\Debug\net5.0\Revisao.pdb
+C:\Users\TSS\Desktop\workspace\Dotnet\Revisao\obj\Debug\net5.0\Revisao.dll
+C:\Users\TSS\Desktop\workspace\Dotnet\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\Users\TSS\Desktop\workspace\Dotnet\Revisao\obj\Debug\net5.0\Revisao.pdb
+C:\Users\TSS\Desktop\workspace\Dotnet\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
